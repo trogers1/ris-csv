@@ -13,10 +13,15 @@ def test_ris_file_exists(ris_path):
         False -- if file cannot be opened
 
     """
-    try:
-        open(ris_path, 'r')
-        return True
-    except IOError:
+    if ris_path.endswith(".ris"):
+        try:
+            open(ris_path, 'r')
+            return True
+        except IOError:
+            print("That path appears invalid. Please try again.\n")
+            return False
+    else:
+        print("Please end your path with '.ris'\n")
         return False
 
 def blank_row():
@@ -25,6 +30,21 @@ def blank_row():
     for i in range(0, 81, 1):  # pylint: disable=W0612
         row.append(None)
     return row
+
+def get_csv_path():
+    print("""
+    Please enter the relative or full path to the location you would like your 
+    new csv saved, as well as the filename for the new csv file. 
+    
+    Eg. "~/Documents/ris_report.csv" (without the quotation marks)
+          """)
+    csv_path = input("> ")
+    if csv_path.endswith(".csv"):
+        return csv_path
+    else:
+        print("Please end your path designation with '.csv'.")
+        csv_path = get_csv_path()
+        return csv_path
 
 def main(): # pylint: disable=R0914
     """Open RIS file, take data, convert to CSV using REGEX."""
@@ -35,21 +55,15 @@ def main(): # pylint: disable=R0914
     ris_path = input("> ")
 
     if test_ris_file_exists(ris_path) is False:
-        print("That path appears invalid. Please try again.\n")
+        
         main()
         exit(0)
 
-
-    print("""
-    Please enter the relative or full path to the location you would like your 
-    new csv saved, as well as the filename for the new csv file. 
+    csv_path = get_csv_path()
     
-    Eg. "~/Documents/ris_report.csv" (without the quotation marks)
-          """)
-    csv_path = input("> ")
 
     ris_std = open("./RIS_stds.csv", 'r')
-    csv_file = open(csv_path, 'w')
+    csv_file = open(csv_path, 'w', newline='')
     writer = csv.writer(csv_file, dialect='excel')
     column_num = {}
     row = blank_row()
