@@ -1,0 +1,434 @@
+TY  - JOUR
+T1  - The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles
+A1  - Piwowar, Heather
+A1  - Priem, Jason
+A1  - Larivière, Vincent
+A1  - Alperin, Juan Pablo
+A1  - Matthias, Lisa
+A1  - Norlander, Bree
+A1  - Farley, Ashley
+A1  - West, Jevin
+A1  - Haustein, Stefanie
+Y1  - 2018/02//
+KW  - Bibliometrics
+KW  - Libraries
+KW  - Open access
+KW  - Open science
+KW  - Publishing
+KW  - Scholarly communication
+KW  - Science policy
+KW  - Scientometrics
+PB  - PeerJ Inc.
+JF  - PeerJ
+VL  - 6
+SP  - e4375
+EP  - e4375
+DO  - 10.7717/peerj.4375
+UR  - https://peerj.com/articles/4375
+N2  - <p>Despite growing interest in Open Access (OA) to scholarly literature, there is an unmet need for large-scale, up-to-date, and reproducible studies assessing the prevalence and characteristics of OA. We address this need using oaDOI, an open online service that determines OA status for 67 million articles. We use three samples, each of 100,000 articles, to investigate OA in three populations: (1) all journal articles assigned a Crossref DOI, (2) recent journal articles indexed in Web of Science, and (3) articles viewed by users of Unpaywall, an open-source browser extension that lets users find OA articles using oaDOI. We estimate that at least 28% of the scholarly literature is OA (19M in total) and that this proportion is growing, driven particularly by growth in Gold and Hybrid. The most recent year analyzed (2015) also has the highest percentage of OA (45%). Because of this growth, and the fact that readers disproportionately access newer articles, we find that Unpaywall users encounter OA quite frequently: 47% of articles they view are OA. Notably, the most common mechanism for OA is not Gold, Green, or Hybrid OA, but rather an under-discussed category we dub Bronze: articles made free-to-read on the publisher website, without an explicit Open license. We also examine the citation impact of OA articles, corroborating the so-called open-access citation advantage: accounting for age and discipline, OA articles receive 18% more citations than average, an effect driven primarily by Green and Hybrid OA. We encourage further research using the free oaDOI service, as a way to inform OA policy and practice.</p>
+ER  - 
+TY  - JOUR
+T1  - DOES ONLINE AVAILABILITY INCREASE CITATIONS? THEORY AND EVIDENCE FROM A PANEL OF ECONOMICS AND BUSINESS JOURNALS
+A1  - Mccabe, Mark J
+A1  - Snyder, Christopher M
+DO  - 10.1162/REST_a_00437
+UR  - https://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00437
+N2  - —Does online availability boost citations? Using a panel of cita-tions to economics and business journals, we show that the enormous effects found in previous studies were an artifact of their failure to control for article quality, disappearing once fixed effects are added as controls. The absence of aggregate effects masks heterogeneity across platforms: JSTOR has a uniquely large effect, boosting citations around 10%. We examine other sources of heterogeneity, including whether JSTOR dispro-portionately increases cites from developing countries or to ''long-tail'' articles. Our theoretical analysis informs the econometric specification and allows citation increases to be translated into welfare terms.
+ER  - 
+TY  - JOUR
+T1  - Open access, readership, citations: a randomized controlled trial of scientific journal publishing
+A1  - Davis, Philip M.
+Y1  - 2011/07//
+PB  - Federation of American Societies for Experimental Biology Bethesda, MD, USA
+JF  - The FASEB Journal
+VL  - 25
+IS  - 7
+SP  - 2129
+EP  - 2134
+DO  - 10.1096/fj.11-183988
+UR  - http://www.fasebj.org/doi/10.1096/fj.11-183988
+N2  - Does free access to journal articles result in greater diffusion of scientific knowledge? Using a randomized controlled trial of open access publishing, involving 36 participating journals in the sciences, social sciences, and humanities, we report on the effects of free access on article downloads and citations. Articles placed in the open access condition (n=712) received significantly more downloads and reached a broader audience within the first year, yet were cited no more frequently, nor earlier, than subscription-access control articles (n=2533) within 3 yr. These results may be explained by social stratification, a process that concentrates scientific authors at a small number of elite research universities with excellent access to the scientific literature. The real beneficiaries of open access publishing may not be the research community but communities of practice that consume, but rarely contribute to, the corpus of literature.—Davis, P. M. Open access, readership, citations: a randomized cont...
+ER  - 
+TY  - JOUR
+T1  - The Post-Embargo Open Access Citation Advantage: It Exists (Probably), It’s Modest (Usually), and the Rich Get Richer (of Course)
+A1  - Ottaviani, Jim
+ED  - Bornmann, Lutz
+Y1  - 2016/08//
+PB  - Public Library of Science
+JF  - PLOS ONE
+VL  - 11
+IS  - 8
+SP  - e0159614
+EP  - e0159614
+DO  - 10.1371/journal.pone.0159614
+UR  - http://dx.plos.org/10.1371/journal.pone.0159614
+N2  - Many studies show that open access (OA) articles—articles from scholarly journals made freely available to readers without requiring subscription fees—are downloaded, and presumably read, more often than closed access/subscription-only articles. Assertions that OA articles are also cited more often generate more controversy. Confounding factors (authors may self-select only the best articles to make OA; absence of an appropriate control group of non-OA articles with which to compare citation figures; conflation of pre-publication vs. published/publisher versions of articles, etc.) make demonstrating a real citation difference difficult. This study addresses those factors and shows that an open access citation advantage as high as 19% exists, even when articles are embargoed during some or all of their prime citation years. Not surprisingly, better (defined as above median) articles gain more when made OA.
+ER  - 
+TY  - JOUR
+T1  - Open Access Citation Advantage: An Annotated Bibliography
+A1  - Wagner, A. Ben
+Y1  - 2010///
+IS  - Winter
+UR  - http://www.istl.org/10-winter/article2.html
+ER  - 
+TY  - JOUR
+T1  - A lightweight methodology for rapid ontology engineering
+A1  - De Nicola, Antonio
+A1  - Missikoff, Michele
+Y1  - 2016/02//
+PB  - ACM
+JF  - Communications of the ACM
+VL  - 59
+IS  - 3
+SP  - 79
+EP  - 86
+DO  - 10.1145/2818359
+UR  - http://dl.acm.org/citation.cfm?doid=2897191.2818359
+L1  - file:///C:/Users/jkenyon/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/De Nicola, Missikoff - 2016 - A lightweight methodology for rapid ontology engineering.pdf
+ER  - 
+TY  - JOUR
+T1  - Ontology Engineering in the Era of Linked Data | ASIS&amp;T
+A1  - Corcho, Oscar
+A1  - Poveda-Villalón, Maria
+A1  - Gómez-Pérez, Asunción
+Y1  - 2015///
+JF  - ASIST Bulletin
+UR  - https://www.asist.org/publications/bulletin/apr-15/ontology-engineering-in-the-era-of-linked-data/
+N2  - Ontology engineering encompasses the method, tools and techniques used to develop ontologies. Without requiring ontologies, linked data is driving a paradigm shift, bringing benefits and drawbacks to the publishing world. Ontologies may be heavyweight, supporting deep understanding of a domain, or lightweight, suited to simple classification of concepts and more adaptable for linked data. They also vary in domain specificity, usability and reusabilty. Hybrid vocabularies drawing elements from diverse sources often suffer from internally incompatible semantics. To serve linked data purposes, ontology engineering teams require a range of skills in philosophy, computer science, web development, librarianship and domain expertise.
+ER  - 
+TY  - CHAP
+T1  - An Introduction to Ontologies and Ontology Engineering
+A1  - Roussey, Catherine
+A1  - Pinet, Francois
+A1  - Kang, Myoung Ah
+A1  - Oscar Corcho
+ED  - Falquet, G.
+JF  -  Ontologies in Urban Development Projects
+DO  - 10.1007/978-0-85729-724-2_2
+UR  - http://oa.upm.es/10381/1/An_Introduction.pdf
+L1  - file:///C:/Users/jkenyon/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Roussey et al. - Unknown - An Introduction to Ontologies and Ontology Engineering.pdf
+ER  - 
+TY  - JOUR
+T1  - H.R.5751 - 114th Congress (2015-2016): Shiras Moose Protection and Recovery Act
+A1  - Chaffetz, Jason
+Y1  - 2016///
+KW  - Animals
+KW  - Congress
+KW  - House Bill
+KW  - Legislative Data
+UR  - https://www.congress.gov/bill/114th-congress/house-bill/5751?q=%7B%22search%22%3A%22H.R.+5751%22%7D&r=1
+ER  - 
+TY  - JOUR
+T1  - Predator-prey size relationships in an African large-mammal food web
+A1  - Owen-Smith, Norman
+A1  - Mills, M. G. L.
+Y1  - 2008/01//
+JF  - Journal of Animal Ecology
+VL  - 77
+IS  - 1
+SP  - 173
+EP  - 183
+DO  - 10.1111/j.1365-2656.2007.01314.x
+UR  - http://doi.wiley.com/10.1111/j.1365-2656.2007.01314.x
+ER  - 
+TY  - JOUR
+T1  - Neonatal mortality of elk driven by climate, predator phenology and predator community composition
+A1  - Griffin, Kathleen A.
+A1  - Hebblewhite, Mark
+A1  - Robinson, Hugh S.
+A1  - Zager, Peter
+A1  - Barber-Meyer, Shannon M.
+A1  - Christianson, David
+A1  - Creel, Scott
+A1  - Harris, Nyeema C.
+A1  - Hurley, Mark A.
+A1  - Jackson, DeWaine H.
+A1  - Johnson, Bruce K.
+A1  - Myers, Woodrow L.
+A1  - Raithel, Jarod D.
+A1  - Schlegel, Mike
+A1  - Smith, Bruce L.
+A1  - White, Craig
+A1  - White, P. J.
+Y1  - 2011/11//
+JF  - Journal of Animal Ecology
+VL  - 80
+IS  - 6
+SP  - 1246
+EP  - 1257
+DO  - 10.1111/j.1365-2656.2011.01856.x
+UR  - http://doi.wiley.com/10.1111/j.1365-2656.2011.01856.x
+ER  - 
+TY  - JOUR
+T1  - Effect of Sociality and Season on Gray Wolf (Canis lupus) Foraging Behavior: Implications for Estimating Summer Kill Rate
+A1  - Metz, Matthew C.
+A1  - Vucetich, John A.
+A1  - Smith, Douglas W.
+A1  - Stahler, Daniel R.
+A1  - Peterson, Rolf O.
+ED  - Getz, Wayne
+Y1  - 2011/03//
+JF  - PLoS ONE
+VL  - 6
+IS  - 3
+SP  - e17332
+EP  - e17332
+DO  - 10.1371/journal.pone.0017332
+UR  - http://dx.plos.org/10.1371/journal.pone.0017332
+ER  - 
+TY  - JOUR
+T1  - Wolf kill rates across winter in a low-density moose system in Alaska
+A1  - Lake, Bryce C.
+A1  - Bertram, Mark R.
+A1  - Guldager, Nikki
+A1  - Caikoski, Jason R.
+A1  - Stephenson, Robert O.
+Y1  - 2013/11//
+KW  - Alaska
+KW  - Alces alces
+KW  - Canis lupus
+KW  - global positioning system telemetry
+KW  - kill rate
+KW  - monthly variation
+KW  - moose
+KW  - very high frequency telemetry
+KW  - wolf
+JF  - The Journal of Wildlife Management
+VL  - 77
+IS  - 8
+SP  - 1512
+EP  - 1522
+DO  - 10.1002/jwmg.603
+UR  - http://doi.wiley.com/10.1002/jwmg.603
+ER  - 
+TY  - JOUR
+T1  - Yellowstone after Wolves
+A1  - Smith, Douglas W.
+A1  - Peterson, Rolf O.
+A1  - Houston, Douglas B.
+Y1  - 2003/04//
+PB  - Oxford University Press
+JF  - BioScience
+VL  - 53
+IS  - 4
+SP  - 330
+EP  - 340
+DO  - 10.1641/0006-3568(2003)053[0330:yaw]2.0.co;2
+UR  - https://academic.oup.com/bioscience/article/53/4/330/250155
+ER  - 
+TY  - BILL
+T1  - H.R.5751 - 114th Congress (2015-2016): Shiras Moose Protection and Recovery Act
+A1  - Chaffetz, Jason
+Y1  - 2016///
+KW  - Animals
+KW  - Congress
+KW  - House Bill
+KW  - Legislative Data
+PB  - U.S. House of Representatives, 114th CONGRESS 2d Session
+UR  - https://www.congress.gov/bill/114th-congress/house-bill/5751?q=%7B%22search%22%3A%5B%22H.R.+5751%22%5D%7D&r=10
+N2  - To provide that any State whose wildlife agency has determined that a portion of the State is within the current range of the Shiras Moose may take management actions on certain Federal lands within that State to stem decline of that species’ population in that State, and for other purposes.
+ER  - 
+TY  - JOUR
+T1  - Highways block gene flow and cause a rapid decline in genetic diversity of desert bighorn sheep
+A1  - Epps, Clinton W.
+A1  - Palsbøll, Per J.
+A1  - Wehausen, John D.
+A1  - Roderick, George K.
+A1  - Ramey, Rob R.
+A1  - McCullough, Dale R.
+Y1  - 2005/10//
+JF  - Ecology Letters
+VL  - 8
+IS  - 10
+SP  - 1029
+EP  - 1038
+DO  - 10.1111/j.1461-0248.2005.00804.x
+UR  - http://doi.wiley.com/10.1111/j.1461-0248.2005.00804.x
+ER  - 
+TY  - JOUR
+T1  - Quantifying Landscape Ruggedness for Animal Habitat Analysis: A Case Study Using Bighorn Sheep in the Mojave Desert
+A1  - SAPPINGTON, J. MARK
+A1  - LONGSHORE, KATHLEEN M.
+A1  - THOMPSON, DANIEL B.
+Y1  - 2007/07//
+JF  - Journal of Wildlife Management
+VL  - 71
+IS  - 5
+SP  - 1419
+EP  - 1426
+DO  - 10.2193/2005-723
+UR  - http://www.bioone.org/doi/abs/10.2193/2005-723
+ER  - 
+TY  - JOUR
+T1  - Persistence of Different-sized Populations: An Empirical Assessment of Rapid Extinctions in Bighorn Sheep
+A1  - BERGER, JOEL
+Y1  - 1990/03//
+JF  - Conservation Biology
+VL  - 4
+IS  - 1
+SP  - 91
+EP  - 98
+DO  - 10.1111/j.1523-1739.1990.tb00271.x
+UR  - http://doi.wiley.com/10.1111/j.1523-1739.1990.tb00271.x
+ER  - 
+TY  - JOUR
+T1  - Corynebacterium pseudotuberculosis and Copper Deficiency in a Male Rocky Mountain Bighorn Sheep (Ovis canadensis canadensis) in Utah, USA
+A1  - Kelly, E Jane
+A1  - Roug, Annette
+A1  - Jones, Covy
+A1  - Seamons, Josee
+A1  - Hall, Jeffery O
+Y1  - 2018/01//
+JF  - JOURNAL OF WILDLIFE DISEASES
+VL  - 54
+IS  - 1
+SP  - 193
+EP  - 195
+DO  - 10.7589/2017-05-099
+N2  - In 2015, an emaciated Rocky Mountain bighorn (Ovis canadensis) ram was
+submitted to the Utah Veterinary Diagnostic Laboratory for necropsy.
+There were numerous thick-walled abscesses subcutaneously and
+internally, and Corynebacterium pseudotuberculosis was isolated in pure
+culture. In addition, the ram was severely copper deficient, with a
+liver copper concentration of 1.6 mg/kg.
+ER  - 
+TY  - JOUR
+T1  - Molecular Surveillance for Bartonella, Borrelia, and Rickettsia Species in Ticks from Desert Bighorn Sheep (Ovis canadensis) and Mule Deer (Odocoileus hemionus) in Southern California, USA
+A1  - Billeter, Sarah A
+A1  - Osikowicz, Lynn M
+A1  - Burns, Joseph E
+A1  - Konde, Lora
+A1  - Gonzales, Ben J
+A1  - Hu, Renjie
+A1  - Kosoy, Michael Y
+Y1  - 2018/01//
+JF  - JOURNAL OF WILDLIFE DISEASES
+VL  - 54
+IS  - 1
+SP  - 161
+EP  - 164
+DO  - 10.7589/2017-02-047
+N2  - Ticks (Acari: Ixodidae) were collected from 44 desert bighorn sheep
+(Ovis canadensis) and 10 mule deer (Odocoileus hemionus) in southern
+California, US during health inspections in 2015-16. Specimens were
+identified and screened by PCR analysis to determine the presence and
+prevalence of Bartonella, Borrelia, and Rickettsia species in ticks
+associated with these wild ruminants. None of the 60 Dermacentor hunteri
+and 15 Dermacentor albipictus ticks tested yielded positive PCR results.
+Additional tick specimens should be collected and tested to determine
+the prevalence of these confirmed or suspected tickborne pathogens
+within ruminant populations.
+ER  - 
+TY  - JOUR
+T1  - Doing what your neighbour does: neighbour proximity, familiarity and postural alignment increase behavioural mimicry
+A1  - McDougall, Petra L
+A1  - Ruckstuhl, Kathreen E
+Y1  - 2018/01//
+JF  - ANIMAL BEHAVIOUR
+VL  - 135
+SP  - 177
+EP  - 185
+DO  - 10.1016/j.anbehav.2017.11.009
+N2  - Nonconscious behavioural mimicry, acting similarly to one's social
+partner, is thought to be a core component of group cohesion and
+coordination. However, the mechanisms contributing to this phenomenon
+are poorly understood. Understanding why behaviour is mimicked in some
+contexts but not in others is an important step in developing hypotheses
+about how and why some behaviours spread between social partners. Here
+we examine mimicry of routine vigilance during grazing episodes in a
+population of free-ranging bighorn sheep, Ovis canadensis, rams. Results
+indicate that vigilance bouts are more likely to be mimicked when
+neighbouring rams are in closer proximity, more familiar with one
+another and posturally aligned. Additionally, older rams are more likely
+than young rams to mimic the vigilance bouts of others, and mimicry
+occurs more often when the initiating ram is lower ranking than the
+mimicking ram. We interpret these findings within the framework of
+biases in attentiveness to particular individuals as a possible
+mechanism leading to the occurrence of behavioural mimicry. (C) 2017 The
+Association for the Study of Animal Behaviour. Published by Elsevier
+Ltd. All rights reserved.
+ER  - 
+TY  - JOUR
+T1  - Predicting the evolutionary consequences of trophy hunting on a quantitative trait
+A1  - Coulson, Tim
+A1  - Schindler, Susanne
+A1  - Traill, Lochran
+A1  - Kendall, Bruce E
+Y1  - 2018/01//
+JF  - JOURNAL OF WILDLIFE MANAGEMENT
+VL  - 82
+IS  - 1, SI
+SP  - 46
+EP  - 56
+DO  - 10.1002/jwmg.21261
+N2  - Some ecologists suggest that trophy hunting (e.g., harvesting males with
+a desirable trait above a certain size) can lead to rapid phenotypic
+change, which has led to an ongoing discussion about evolutionary
+consequences of trophy hunting. Claims of rapid evolution come from the
+statistical analyses of data, with no examination of whether these
+results are theoretically plausible. We constructed simple quantitative
+genetic models to explore how a range of hunting scenarios affects the
+evolution of a trophy such as horn length. We show that trophy hunting
+does lead to trophy evolution defined as change in the mean breeding
+value of the trait. However, the fastest rates of phenotypic change
+attributable to trophy hunting via evolution that are theoretically
+possible under standard assumptions of quantitative genetics are 1-2
+orders of magnitude slower than the fastest rates of phenotypic change
+reported from statistical analyses. Our work suggests a re-evaluation of
+the likely evolutionary consequences of trophy hunting would be
+appropriate when setting policy. Our work does not consider the ethical
+or ecological consequences of trophy hunting. (c) 2017 The Wildlife
+Society.
+We show that the widely cited results claiming rapid evolution of trophy
+size in bighorn sheep in response to selective trophy hunting are
+theoretically impossible given standard assumptions of quantitative
+genetics.
+ER  - 
+TY  - JOUR
+T1  - Persistence of Different-sized Populations: A inEmpirical Assessment of Rapid Extinctions in Bighorn Sheep
+A1  - Berger, J
+Y1  - 1990///
+VL  - 4
+IS  - 1
+SP  - 91
+EP  - 98
+ER  - 
+TY  - JOUR
+T1  - Direct and indirect effects of early-life environment on lifetime fitness of bighorn ewes
+A1  - Pigeon, Gabriel
+A1  - Pelletier, Fanie
+Y1  - 2018/01//
+JF  - Proceedings of the Royal Society B: Biological Sciences
+VL  - 285
+IS  - 1870
+SP  - 20171935
+EP  - 20171935
+DO  - 10.1098/rspb.2017.1935
+UR  - http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2017.1935
+N2  - Cohort effects, when a common environment affects long-term performance, can have a major impact on population dynamics. Very few studies of wild animals have obtained the necessary data to study the mechanisms leading to cohort effects. We exploited 42 years of individual-based data on bighorn sheep to test for causal links between birth density, body mass, age at first reproduction (AFR), longevity and lifetime reproductive success (LRS) using path analysis. Specifically, we investigated whether the effect of early-life environment on lifetime fitness was the result of indirect effects through body mass or direct effects of early-life environment on fitness. Additionally, we evaluated whether the effects of early-life environment were dependant on the environment experienced during adulthood. Contrary to expectation, the effect on LRS mediated through body mass was weak compared to the effects found via a delay in AFR, reduced longevity and the direct effect of birth density. Birth density also had an important indirect effect on LRS through reduced longevity, but only when adult density was high. Our results show that the potential long-term consequences of a harsh early-life environment on fitness are likely to be underestimated if investigations are limited to body mass instead of fitness at several life stages, or if the interactions between past and present environment are ignored.
+ER  - 
+TY  - JOUR
+T1  - Highways block gene flow and cause a rapid decline in genetic diversity of desert bighorn sheep
+A1  - Epps, Clinton W.
+A1  - Palsbøll, Per J.
+A1  - Wehausen, John D.
+A1  - Roderick, George K.
+A1  - Ramey, Rob R.
+A1  - McCullough, Dale R.
+Y1  - 2005/10//
+KW  - Gene flow
+KW  - Genetic diversity
+KW  - Habitat fragmentation
+KW  - Metapopulation
+KW  - Ovis canadensis
+KW  - Road
+JF  - Ecology Letters
+VL  - 8
+IS  - 10
+SP  - 1029
+EP  - 1038
+SN  - 1461-023X
+DO  - 10.1111/j.1461-0248.2005.00804.x
+UR  - http://doi.wiley.com/10.1111/j.1461-0248.2005.00804.x
+N2  - The rapid expansion of road networks has reduced connectivity among populations of flora and fauna. The resulting isolation is assumed to increase population extinction rates, in part because of the loss of genetic diversity. However, there are few cases where loss of genetic diversity has been linked directly to roads or other barriers. We analysed the effects of such barriers on connectivity and genetic diversity of 27 populations of Ovis canadensis nelsoni (desert bighorn sheep). We used partial Mantel tests, multiple linear regression and coalescent simulations to infer changes in gene flow and diversity of nuclear and mitochondrial DNA markers. Our findings link a rapid reduction in genetic diversity (up to 15%) to as few as 40 years of anthropogenic isolation. Interstate highways, canals and developed areas, where present, have apparently eliminated gene flow. These results suggest that anthropogenic barriers constitute a severe threat to the persistence of naturally fragmented populations.
+ER  - 
