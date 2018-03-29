@@ -19,28 +19,6 @@ def test_ris_file_exists(ris_path):
     except IOError:
         return False
 
-def main_regex():
-    """Test REGEX expressions."""
-    ris_file = open('test.ris', 'r')
-    ris_text = ris_file.read()
-    ris_text = ris_text.replace("\n", " ")
-    ris_file.close()
-    regex = re.compile(
-        r'(?<=([A-Z][A-Z0-9]  - ))(.*?)(?=([A-Z][A-Z0-9]  - ))')
-    # ^ This uses a "positive lookbehind" [(?<=...)] to start the match after
-    # '...', then uses a non-greedy (?) wildcard to iteratively move forward
-    # until BEFORE the final matched expression , which is done with a
-    # positive lookahead [(?=...)]
-    matches = re.findall(regex, ris_text)  # Create a list with .findall()
-    print("Here are all the matches for end: ")
-    for match in matches:
-        ris_id = match[0][0] + match[0][1]
-        ris_data = match[1]
-        print("""
-        ris_id = {0}
-        ris_data = {1}
-              """.format(ris_id, ris_data))
-
 def blank_row():
     """Create and return a blank, 80 item long list."""
     row = []
