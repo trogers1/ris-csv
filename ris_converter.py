@@ -63,7 +63,9 @@ def main(): # pylint: disable=R0914
     
 
     ris_std = open("./RIS_stds.csv", 'r')
-    csv_file = open(csv_path, 'w', newline='')
+    csv_file = open(csv_path, 'w', newline='')  
+    # ^ 'newline=""' is required to not print a space after each row in 
+    # windows. 
     writer = csv.writer(csv_file, dialect='excel')
     column_num = {}
     row = blank_row()
