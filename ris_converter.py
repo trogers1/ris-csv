@@ -1,6 +1,6 @@
 """Convert RIS to CSV."""
 
-import os
+import sys, os
 import csv
 import re
 
@@ -61,8 +61,25 @@ def main(): # pylint: disable=R0914
 
     csv_path = get_csv_path()
     
+    if getattr(sys, 'frozen', False):
+        # If the application is run as a bundle, the pyInstaller bootloader
+        # extends the sys module by a flag frozen=True and sets the app 
+        # path into variable _MEIPASS'.
+        application_path = sys.executable
+        application_path2 = sys._MEIPASS
+        try:
+            std_path = application_path.replace("ris_converter", 
+                                                "RIS_stds.csv")
+            ris_std = open(std_path, 'r')
+        except:
+            std_path = application_path2 + "/RIS_stds.csv"
+            ris_std = open(std_path, 'r')
+    else:
+        application_path = os.path.dirname(os.path.abspath(__file__))
+        std_path = application_path + "/RIS_stds.csv"
+        ris_std = open(std_path, 'r')
 
-    ris_std = open("./RIS_stds.csv", 'r')
+    
     csv_file = open(csv_path, 'w', newline='')  
     # ^ 'newline=""' is required to not print a space after each row in 
     # windows. 
