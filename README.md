@@ -6,17 +6,16 @@ RIS files are one convenient way for researchers and data managers to store cita
 
 ## Installation and Use ##
 
-### For Those Without Programming Experience ##
+### For Those Without Programming Experience... ##
 
 If you don't want to deal with downloading/learning a programming language (or if you just want the program, not the algorithm), I have created both Windows and Unix executables that you can run like any other program on your computer. 
 
 If you just want to download this program and use it, download this whole repository as a .zip file, unpack that zip file somewhere where you want it to live, then go into the `win_dist` folder if you are on Windows, or the `unix_dist` folder if you are on MacOS or Linux. You can then double click the `ris_converter` executable and use the program!
 
 
-### For the techies ###
+### For the techies... ###
 
 For those that want to dig a little deeper...
----------
 
 Requirements:
 * Python 3 (which can be downloaded and installed [here](https://www.python.org/downloads/))
