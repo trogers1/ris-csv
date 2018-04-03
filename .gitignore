@@ -12,6 +12,7 @@ env/
 dist/
 build/
 .vscode
+*.DS_Store
 
 develop-eggs/
 
