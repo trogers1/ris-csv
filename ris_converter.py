@@ -67,14 +67,19 @@ def main(): # pylint: disable=R0914
         # path into variable _MEIPASS'.
         application_path = sys.executable
         application_path2 = sys._MEIPASS
+        application_path = application_path.replace(".exe", "")
+        application_path2 = application_path2.replace(".exe", "")
         try:
+            print("here1")
             std_path = application_path.replace("ris_converter", 
                                                 "RIS_stds.csv")
             ris_std = open(std_path, 'r')
         except:
+            print("here2")
             std_path = application_path2 + "/RIS_stds.csv"
             ris_std = open(std_path, 'r')
     else:
+        print("here3")
         application_path = os.path.dirname(os.path.abspath(__file__))
         std_path = application_path + "/RIS_stds.csv"
         ris_std = open(std_path, 'r')
@@ -122,10 +127,21 @@ def main(): # pylint: disable=R0914
     print("""
     Conversion process complete. 
     
-    Your new file is located here: {0}""".format(os.path.abspath(csv_path)))
+    Your new file is located here: {0}
+    
+    """.format(os.path.abspath(csv_path)))
+
     return
 
 
 if __name__ == "__main__":
     print("Welcome to the RIS>CSV Converter.")
-    main()
+    try:
+        main()
+    except:
+        print(sys.exc_info()[0])
+        import traceback
+        print(traceback.format_exc())
+    finally:
+        print("Press <return> or <enter> to close the program.")
+        input()
