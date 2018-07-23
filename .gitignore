@@ -13,6 +13,7 @@ dist/
 build/
 .vscode
 *.DS_Store
+win_build/
 
 develop-eggs/
 
