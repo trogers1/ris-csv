@@ -15,7 +15,7 @@ def test_ris_file_exists(ris_path):
     """
     if ris_path.endswith(".ris"):
         try:
-            open(ris_path, 'r')
+            open(ris_path, 'r', encoding = 'utf-8')
             return True
         except IOError:
             print("That path appears invalid. Please try again.\n")
@@ -73,19 +73,19 @@ def main(): # pylint: disable=R0914
             print("here1")
             std_path = application_path.replace("ris_converter", 
                                                 "RIS_stds.csv")
-            ris_std = open(std_path, 'r')
+            ris_std = open(std_path, 'r', encoding = 'utf-8')
         except:
             print("here2")
             std_path = application_path2 + "/RIS_stds.csv"
-            ris_std = open(std_path, 'r')
+            ris_std = open(std_path, 'r', encoding = 'utf-8')
     else:
         print("here3")
         application_path = os.path.dirname(os.path.abspath(__file__))
         std_path = application_path + "/RIS_stds.csv"
-        ris_std = open(std_path, 'r')
+        ris_std = open(std_path, 'r', encoding = 'utf-8')
 
     
-    csv_file = open(csv_path, 'w', newline='')  
+    csv_file = open(csv_path, 'w', newline='', encoding = 'utf-8')  
     # ^ 'newline=""' is required to not print a space after each row in 
     # windows. 
     writer = csv.writer(csv_file, dialect='excel')
@@ -100,7 +100,7 @@ def main(): # pylint: disable=R0914
     row = blank_row()
 
 
-    ris_file = open(ris_path, 'r')
+    ris_file = open(ris_path, 'r', encoding = 'utf-8')
     ris_text = ris_file.read()
     ris_text = ris_text.replace("\n", " ")
     ris_file.close()
@@ -115,7 +115,11 @@ def main(): # pylint: disable=R0914
     for match in matches:
         ris_id = match[0][0] + match[0][1]
         ris_data = match[1]
-        row[column_num[ris_id]] = ris_data
+        try:
+            row[column_num[ris_id]] = ris_data
+        except KeyError:
+            print(f"Warning: Unrecognized RIS tag '{ris_id}' found and skipped.")
+            
         print("""
         ris_id = {0}
         ris_data = {1}
